@@ -31,6 +31,7 @@ Automating workflows with macros
 Creating intuitive dashboards for data insights
 
 📸 Screenshots
+![image alt](https://github.com/reyansh2002/Automated-Excel-Dashboard/blob/main/output%20image)
 
 
 📂 How to Use
